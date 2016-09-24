@@ -1,0 +1,10 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>CentralHubSty</find>
+      <find>CentralHubStyle.c</find>
+      <find>CentralHub</find>
+      <find>Central</find>
+    </findStrings>
+  </component>
+</application>
